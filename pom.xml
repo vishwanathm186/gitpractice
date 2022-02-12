@@ -1,0 +1,7 @@
+<project>
+ <groupid>org.qt.devops</groupid>
+  <artifactid>helloworld</artifactid>
+  <version>1.0 shnapshot</version>
+  <modelversion>4.0.0</modelversion>
+  <packaging>jar</packaging>
+  </project> 
